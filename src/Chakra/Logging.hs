@@ -5,6 +5,7 @@
 {-# LANGUAGE TypeFamilies         #-}
 {-# LANGUAGE TypeOperators        #-}
 {-# LANGUAGE UndecidableInstances #-}
+{-# LANGUAGE FlexibleContexts     #-}
 {-# OPTIONS_GHC -fno-warn-orphans #-}
 
 -- |Logging utility functions
